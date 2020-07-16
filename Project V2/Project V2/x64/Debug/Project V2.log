@@ -1,0 +1,116 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_widgets.cpp
+  Input.cpp
+  DeltaTime.cpp
+  Camera.cpp
+  IndexBuffer.cpp
+  Menu.cpp
+  Renderer.cpp
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\ShaderManager.h(25): warning C4091: 'static ': ignored on left of 'ShaderManager::shaderType' when no variable is declared
+  ShaderManager.cpp
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\ShaderManager.h(25): warning C4091: 'static ': ignored on left of 'ShaderManager::shaderType' when no variable is declared
+  Main.cpp
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\ShaderManager.h(25): warning C4091: 'static ': ignored on left of 'ShaderManager::shaderType' when no variable is declared
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(105,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(105,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(230,35): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(237,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(240,111): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(240,97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(274,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(275,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(288,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(289,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(332,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(332,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(332,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(333,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(333,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(333,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(400,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(403,69): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(403,42): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(438,69): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(438,42): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(442,67): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(442,40): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(445,68): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(445,41): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(452,69): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(452,42): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(218,7): warning C4101: 'menu': unreferenced local variable
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(678,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(679,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(733,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(734,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(744,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(745,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(754,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(755,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(757,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(758,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\Main.cpp(786,13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  VoxGrid.cpp
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\VoxGrid.cpp(42,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\VoxGrid.cpp(42,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\VoxGrid.cpp(42,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Vox.cpp
+  VBuffer.cpp
+  VertexArray.cpp
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\VertexArray.cpp(48,72): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+  Transform.cpp
+  Window.cpp
+  Generating Code...
+C:\Users\Brandon\Documents\dev projects\Source project\Project V2\Project V2\Source\VoxGrid.cpp(100): warning C4715: 'VoxGrid::IsVoxHere': not all control paths return a value
+  Compiling...
+  WavefrontFile.cpp
+  ToolBar.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Brandon\Documents\dev projects\Source project\Project V2\x64\Debug\vc120.pdb'; linking object as if no debug info
+  Project V2.vcxproj -> C:\Users\Brandon\Documents\dev projects\Source project\Project V2\x64\Debug\Project V2.exe

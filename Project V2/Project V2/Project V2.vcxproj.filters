@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Shader">
+      <UniqueIdentifier>{58b9ac6e-40fd-4f32-b02e-274e54b30f5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Shader\Fragment Shader">
+      <UniqueIdentifier>{111e9147-ac80-45b7-acfe-337a1de8a2f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Shader\Vertex Shader">
+      <UniqueIdentifier>{c029b745-c73d-44f3-a66a-43d09ae796f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GraphicsManager">
+      <UniqueIdentifier>{1663e397-cdae-4f7d-85b0-7e57213fd7c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\VoxelManager">
+      <UniqueIdentifier>{742b0e7f-e622-4cc5-8f6b-04bb61af540c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\VoxelManager\Header">
+      <UniqueIdentifier>{c79a153c-3258-44c8-afab-dbda93e5abbc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\VoxelManager\Source">
+      <UniqueIdentifier>{983446ad-c187-4cab-a837-bacf0c430210}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GraphicsManager\Header">
+      <UniqueIdentifier>{385ad616-42c0-45da-8968-70fdc2b6d763}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GraphicsManager\Source">
+      <UniqueIdentifier>{d98f9e77-c018-4dbd-afe6-ec338395ee36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\UtilityManager">
+      <UniqueIdentifier>{6ac3ae46-b8e3-41dd-8adf-e08c243f0941}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\UtilityManager\Heade">
+      <UniqueIdentifier>{6968b504-da83-4b0e-aab9-757ac83c101d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\UtilityManager\Source">
+      <UniqueIdentifier>{446b8704-ae16-4d62-bccd-292e8885987b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\UIManager">
+      <UniqueIdentifier>{feefc13c-7c37-422a-aa47-dd4903e0e6e8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Vox.cpp">
+      <Filter>Source Files\VoxelManager\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\VoxGrid.cpp">
+      <Filter>Source Files\VoxelManager\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\IndexBuffer.cpp">
+      <Filter>Source Files\GraphicsManager\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer.cpp">
+      <Filter>Source Files\GraphicsManager\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ShaderManager.cpp">
+      <Filter>Source Files\GraphicsManager\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\VBuffer.cpp">
+      <Filter>Source Files\GraphicsManager\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\VertexArray.cpp">
+      <Filter>Source Files\GraphicsManager\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Transform.cpp">
+      <Filter>Source Files\GraphicsManager\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Camera.cpp">
+      <Filter>Source Files\GraphicsManager\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\DeltaTime.cpp">
+      <Filter>Source Files\UtilityManager\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Input.cpp">
+      <Filter>Source Files\UtilityManager\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Window.cpp">
+      <Filter>Source Files\GraphicsManager\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\imgui_impl_opengl3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\imgui_demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\imgui_draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\imgui_impl_glfw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\imgui_widgets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\imgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\WavefrontFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ToolBar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\VoxGrid.h">
+      <Filter>Source Files\VoxelManager\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Vox.h">
+      <Filter>Source Files\VoxelManager\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer.h">
+      <Filter>Source Files\GraphicsManager\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ShaderManager.h">
+      <Filter>Source Files\GraphicsManager\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\VBuffer.h">
+      <Filter>Source Files\GraphicsManager\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\VertexArray.h">
+      <Filter>Source Files\GraphicsManager\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Transform.h">
+      <Filter>Source Files\GraphicsManager\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Camera.h">
+      <Filter>Source Files\GraphicsManager\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\DeltaTime.h">
+      <Filter>Source Files\UtilityManager\Heade</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Input.h">
+      <Filter>Source Files\UtilityManager\Heade</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Window.h">
+      <Filter>Source Files\GraphicsManager\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\IndexBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\imconfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\imstb_truetype.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\imstb_textedit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\imgui.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\imgui_impl_glfw.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\imgui_impl_opengl3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\imgui_internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\imstb_rectpack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\WavefrontFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ToolBar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shaders\Shader.shader">
+      <Filter>Resource Files\Shader</Filter>
+    </None>
+    <None Include="Resources\Shaders\Fragment\basFrag.shader">
+      <Filter>Resource Files\Shader\Fragment Shader</Filter>
+    </None>
+    <None Include="Resources\Shaders\Vertex\basVert.shader">
+      <Filter>Resource Files\Shader\Vertex Shader</Filter>
+    </None>
+    <None Include="Resources\Shaders\Vertex\TransformVert.shader">
+      <Filter>Resource Files\Shader\Vertex Shader</Filter>
+    </None>
+    <None Include="Resources\Shaders\Fragment\LightFrag.shader">
+      <Filter>Resource Files\Shader\Fragment Shader</Filter>
+    </None>
+    <None Include="Resources\Shaders\Vertex\LightVert .shader">
+      <Filter>Resource Files\Shader\Vertex Shader</Filter>
+    </None>
+    <None Include="Resources\Shaders\Fragment\voxelFrag.shader">
+      <Filter>Resource Files\Shader\Fragment Shader</Filter>
+    </None>
+  </ItemGroup>
+</Project>
